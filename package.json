@@ -1,0 +1,20 @@
+{
+  "name": "radiofrance-cypress",
+  "version": "1.0.0",
+  "description": "Radio France web sitesi test otomasyon projesi",
+  "scripts": {
+    "test": "cypress open",
+    "test:headless": "cypress run"
+  },
+  "keywords": [
+    "cypress",
+    "automation",
+    "testing",
+    "radio-france"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^13.6.0"
+  }
+}
